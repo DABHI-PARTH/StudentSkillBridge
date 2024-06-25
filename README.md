@@ -1,4 +1,4 @@
-<h1>StudentSkillBridge</h1>h1>
+<h1>StudentSkillBridge</h1>
 <h3>StudentSkillBridge is a web application built with HTML, CSS, JavaScript, PHP, and MySQL, designed to facilitate the interaction between college students, colleges, and companies akin to LinkedIn. The platform allows students to create profiles using their college code, email, and password, along with basic details. Colleges have the capability to verify student profiles.</h3>
 
 <b>Key Features:</b><br>
